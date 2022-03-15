@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Mono Repo of Next/Nest/React/Shared Packages",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
     "test": "jest"
   },
   "workspaces": [
